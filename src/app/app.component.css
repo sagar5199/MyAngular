@@ -1,0 +1,10 @@
+.ng-invalid.ng-touched
+{
+border:1px solid red;
+}
+
+.quantity::-webkit-inner-spin-button, 
+.quantity::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
